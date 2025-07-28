@@ -10,8 +10,16 @@ En este proyecto estoy aprendiendo a:
 - -Entender la importancia de `README.md`, `.gitignore`, y otros archivos clave
 
 ---
+<h1> Sistema de Registros </h1>
+- **Estado del proyecto**: En construcción
 
-## ¿Qué contiene este repositorio?
+Para ejecutar el sistema, debes poner:
+
+'''npm instal react'''
+
+---
+
+## ¿Qué contiene este repositorio? 
 
 - Archivos de práctica del curso
 - Notas personales sobre los comandos aprendidos
